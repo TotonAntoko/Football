@@ -1,0 +1,15 @@
+.site-logo {
+	position: relative;
+	font-weight: 900;	
+	font-size: 1.6rem;
+	a {
+		color: $white;
+	}
+}
+header {
+  padding-top: 1.5rem !important;
+	margin-bottom: 0px;
+	z-index: 1999;
+	position: absolute;
+	width: 100%;
+}
